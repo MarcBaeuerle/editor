@@ -6,7 +6,7 @@
   "type": "module",
   "devDependencies": {
     "@parcel/resolver-glob": "^2.12.0",
-    "@parcel/transformer-inline-string": "2.12.0",
+    "@parcel/transformer-inline-string": "2.13.3",
     "@types/node": "^22.5.5",
     "@typescript-eslint/eslint-plugin": "^7.15.0",
     "@typescript-eslint/parser": "^7.15.0",
@@ -23,7 +23,7 @@
     "patch-package": "^8.0.0",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^3.3.3",
-    "typescript": "^5.6.2"
+    "typescript": "^5.7.3"
   },
   "dependencies": {
     "@monaco-editor/react": "^4.6.0",
@@ -63,11 +63,12 @@
     "redux-localstorage": "^0.4.1",
     "redux-thunk": "^2.4.2",
     "tippy.js": "^6.3.7",
-    "vega-cli": "5.30.0",
     "tslib": "^2.7.0",
+    "vega-cli": "5.30.0",
     "vega-datasets": "^2.9.0",
-    "vega-lite": "5.21.0",
     "vega-embed": "^6.26.0",
+    "vega-interpreter": "^1.1.0",
+    "vega-lite": "5.21.0",
     "vega-schema-url-parser": "^2.2.0",
     "vega-themes": "^2.15.0",
     "vega-tooltip": "^0.34.0",
